@@ -9,25 +9,25 @@
 			color: rgb(0, 51, 153);
 			font-size: 55px;
 			background-color: rgb(255, 255, 0);
-			font-family: Verdana;
+			font-family: Monospace;
 		}
 		
 		h2 {
 			color: rgb(0, 102, 204);
 			font-size: 40px;
-			font-family: Verdana;
+			font-family: Monospace;
 		}
 		
 		h3 {
 			color: rgb(0, 102, 204);
 			font-size: 30px;
-			font-family: Verdana;
+			font-family: Monospace;
 		ul {
 			color: rgb(255, 0, 0);
-			font-family: Verdana;
+			font-family: Monospace;
 		}
 		p {
-			font-family: Verdana;
+			font-family: Monospace;
 		}
 		</style>
 	</head>
